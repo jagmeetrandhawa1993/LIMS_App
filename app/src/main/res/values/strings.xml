@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">LIMS_App</string>
+
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="site">
+        <item>India</item>
+        <item>Canada</item>
+        <item>America</item>
+    </string-array>
+
+    <string-array name="client">
+        <item>Amit</item>
+        <item>Harry</item>
+        <item>David</item>
+    </string-array>
+
+    <string-array name="ponumber">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+    </string-array>
+
+    <string-array name="project">
+        <item>P_One</item>
+        <item>P_Two</item>
+        <item>P_Three</item>
+    </string-array>
+
+    <string-array name="quote">
+        <item>Q_One</item>
+        <item>Q_Two</item>
+        <item>Q_Three</item>
+    </string-array>
+
+    <string-array name="submittedby">
+        <item>S_One</item>
+        <item>S_Two</item>
+        <item>S_Three</item>
+    </string-array>
+
+    <string-array name="sampletype">
+        <item>St_One</item>
+        <item>St_Two</item>
+        <item>St_Three</item>
+    </string-array>
+
+    <string-array name="invoiceto">
+        <item>St_One</item>
+        <item>St_Two</item>
+        <item>St_Three</item>
+    </string-array>
+
+    <string-array name="prepcode">
+        <item>Pr_One</item>
+        <item>Pr_Two</item>
+        <item>Pr_Three</item>
+    </string-array>
+
+    <string-array name="status">
+        <item>S_One</item>
+        <item>S_Two</item>
+        <item>S_Three</item>
+    </string-array>
+
+    <string-array name="reportto">
+        <item>Re_One</item>
+        <item>Re_Two</item>
+        <item>Re_Three</item>
+    </string-array>
+
+    <string-array name="addpackage">
+        <item>Pac_One</item>
+        <item>Pac_Two</item>
+        <item>Pac_Three</item>
+    </string-array>
+
+    <string-array name="addflag">
+        <item>F_One</item>
+        <item>F_Two</item>
+        <item>F_Three</item>
+    </string-array>
+
+    <string-array name="shipper">
+        <item>S_One</item>
+        <item>S_Two</item>
+        <item>S_Three</item>
+    </string-array>
+</resources>
